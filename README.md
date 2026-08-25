@@ -1,2 +1,15 @@
-# ctf-writeups
-My notes and solutions from cybersecurity challenges.
+# CTF Writeups
+
+My cybersecurity challenge notes and lessons learned.
+
+## Platforms
+
+- TryHackMe
+- Hack The Box
+
+## Topics
+
+- Linux
+- Web Security
+- Networking
+- Privilege Escalation
